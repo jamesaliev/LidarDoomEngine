@@ -39,7 +39,7 @@ The **Lidar Doom Engine** is a custom 3D rendering engine built using OpenGL and
 2. **Compile the Code**:
    Use the following command with a GCC-compatible compiler:
    ```bash
-   gcc main.c -o LidarDoomEngine -lglut -lGL -lm
+   gcc DoomEngine.c -o LidarDoomEngine -lglut -lGL -lm
    ```
    On Windows, include `-lopengl32` and `-lfreeglut`.
 3. **Run the Executable**:
