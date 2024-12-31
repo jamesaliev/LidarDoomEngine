@@ -80,9 +80,6 @@ The engine features a retro-style rendering with:
 - Support additional input devices and controls.
 - Optimize rendering pipeline for improved performance.
 
-## License
-This project is open-source and licensed under the MIT License.
-
 ## Author
 James Aliev
 
